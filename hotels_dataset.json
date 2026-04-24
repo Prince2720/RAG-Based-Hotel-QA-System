@@ -1,0 +1,602 @@
+[
+  {
+    "hotel_name": "Hotel 1",
+    "location": "Jaipur",
+    "amenities": [
+      "Spa",
+      "Breakfast",
+      "Parking"
+    ],
+    "rating": 4.6,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Free cancellation within 24 hours."
+  },
+  {
+    "hotel_name": "Hotel 2",
+    "location": "Mumbai",
+    "amenities": [
+      "Heater",
+      "Pool",
+      "Gym"
+    ],
+    "rating": 3.6,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Partial refund within 48 hours."
+  },
+  {
+    "hotel_name": "Hotel 3",
+    "location": "Delhi",
+    "amenities": [
+      "Beach Access",
+      "Gym",
+      "Parking"
+    ],
+    "rating": 4.4,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Free cancellation within 24 hours."
+  },
+  {
+    "hotel_name": "Hotel 4",
+    "location": "Pune",
+    "amenities": [
+      "Spa",
+      "Breakfast",
+      "Beach Access"
+    ],
+    "rating": 3.8,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Free cancellation within 24 hours."
+  },
+  {
+    "hotel_name": "Hotel 5",
+    "location": "Jaipur",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Breakfast"
+    ],
+    "rating": 4.1,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "No cancellation allowed."
+  },
+  {
+    "hotel_name": "Hotel 6",
+    "location": "Jaipur",
+    "amenities": [
+      "Parking",
+      "Pool",
+      "Gym"
+    ],
+    "rating": 4.5,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Free cancellation within 24 hours."
+  },
+  {
+    "hotel_name": "Hotel 7",
+    "location": "Jaipur",
+    "amenities": [
+      "Free WiFi",
+      "Parking",
+      "Breakfast"
+    ],
+    "rating": 3.8,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "No cancellation allowed."
+  },
+  {
+    "hotel_name": "Hotel 8",
+    "location": "Delhi",
+    "amenities": [
+      "Free WiFi",
+      "Parking",
+      "Spa"
+    ],
+    "rating": 4.0,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Free cancellation within 24 hours."
+  },
+  {
+    "hotel_name": "Hotel 9",
+    "location": "Pune",
+    "amenities": [
+      "Spa",
+      "Free WiFi",
+      "Gym"
+    ],
+    "rating": 4.0,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "No cancellation allowed."
+  },
+  {
+    "hotel_name": "Hotel 10",
+    "location": "Mumbai",
+    "amenities": [
+      "Breakfast",
+      "Pool",
+      "Free WiFi"
+    ],
+    "rating": 3.8,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "No cancellation allowed."
+  },
+  {
+    "hotel_name": "Hotel 11",
+    "location": "Bangalore",
+    "amenities": [
+      "Heater",
+      "Free WiFi",
+      "Parking"
+    ],
+    "rating": 4.0,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Partial refund within 48 hours."
+  },
+  {
+    "hotel_name": "Hotel 12",
+    "location": "Jaipur",
+    "amenities": [
+      "Spa",
+      "Breakfast",
+      "Beach Access"
+    ],
+    "rating": 4.5,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "No cancellation allowed."
+  },
+  {
+    "hotel_name": "Hotel 13",
+    "location": "Chennai",
+    "amenities": [
+      "Gym",
+      "Free WiFi",
+      "Beach Access"
+    ],
+    "rating": 4.6,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "No cancellation allowed."
+  },
+  {
+    "hotel_name": "Hotel 14",
+    "location": "Mumbai",
+    "amenities": [
+      "Heater",
+      "Parking",
+      "Spa"
+    ],
+    "rating": 4.6,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Partial refund within 48 hours."
+  },
+  {
+    "hotel_name": "Hotel 15",
+    "location": "Delhi",
+    "amenities": [
+      "Free WiFi",
+      "Parking",
+      "Gym"
+    ],
+    "rating": 4.7,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Partial refund within 48 hours."
+  },
+  {
+    "hotel_name": "Hotel 16",
+    "location": "Goa",
+    "amenities": [
+      "Heater",
+      "Beach Access",
+      "Gym"
+    ],
+    "rating": 3.6,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "No cancellation allowed."
+  },
+  {
+    "hotel_name": "Hotel 17",
+    "location": "Delhi",
+    "amenities": [
+      "Parking",
+      "Breakfast",
+      "Gym"
+    ],
+    "rating": 3.8,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "No cancellation allowed."
+  },
+  {
+    "hotel_name": "Hotel 18",
+    "location": "Chennai",
+    "amenities": [
+      "Gym",
+      "Beach Access",
+      "Free WiFi"
+    ],
+    "rating": 4.7,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Free cancellation within 24 hours."
+  },
+  {
+    "hotel_name": "Hotel 19",
+    "location": "Manali",
+    "amenities": [
+      "Beach Access",
+      "Breakfast",
+      "Gym"
+    ],
+    "rating": 4.3,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "No cancellation allowed."
+  },
+  {
+    "hotel_name": "Hotel 20",
+    "location": "Pune",
+    "amenities": [
+      "Breakfast",
+      "Free WiFi",
+      "Beach Access"
+    ],
+    "rating": 3.8,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "No cancellation allowed."
+  },
+  {
+    "hotel_name": "Hotel 21",
+    "location": "Chennai",
+    "amenities": [
+      "Heater",
+      "Breakfast",
+      "Parking"
+    ],
+    "rating": 4.6,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Partial refund within 48 hours."
+  },
+  {
+    "hotel_name": "Hotel 22",
+    "location": "Manali",
+    "amenities": [
+      "Breakfast",
+      "Pool",
+      "Free WiFi"
+    ],
+    "rating": 3.9,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Free cancellation within 24 hours."
+  },
+  {
+    "hotel_name": "Hotel 23",
+    "location": "Mumbai",
+    "amenities": [
+      "Spa",
+      "Parking",
+      "Heater"
+    ],
+    "rating": 4.5,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "No cancellation allowed."
+  },
+  {
+    "hotel_name": "Hotel 24",
+    "location": "Manali",
+    "amenities": [
+      "Spa",
+      "Heater",
+      "Pool"
+    ],
+    "rating": 4.0,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Partial refund within 48 hours."
+  },
+  {
+    "hotel_name": "Hotel 25",
+    "location": "Delhi",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Beach Access"
+    ],
+    "rating": 4.2,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Partial refund within 48 hours."
+  },
+  {
+    "hotel_name": "Hotel 26",
+    "location": "Mumbai",
+    "amenities": [
+      "Beach Access",
+      "Breakfast",
+      "Free WiFi"
+    ],
+    "rating": 4.0,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "No cancellation allowed."
+  },
+  {
+    "hotel_name": "Hotel 27",
+    "location": "Manali",
+    "amenities": [
+      "Heater",
+      "Breakfast",
+      "Pool"
+    ],
+    "rating": 3.6,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Partial refund within 48 hours."
+  },
+  {
+    "hotel_name": "Hotel 28",
+    "location": "Hyderabad",
+    "amenities": [
+      "Heater",
+      "Beach Access",
+      "Parking"
+    ],
+    "rating": 4.3,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Partial refund within 48 hours."
+  },
+  {
+    "hotel_name": "Hotel 29",
+    "location": "Jaipur",
+    "amenities": [
+      "Free WiFi",
+      "Spa",
+      "Heater"
+    ],
+    "rating": 3.5,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Free cancellation within 24 hours."
+  },
+  {
+    "hotel_name": "Hotel 30",
+    "location": "Mumbai",
+    "amenities": [
+      "Spa",
+      "Parking",
+      "Free WiFi"
+    ],
+    "rating": 4.3,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Partial refund within 48 hours."
+  },
+  {
+    "hotel_name": "Hotel 31",
+    "location": "Mumbai",
+    "amenities": [
+      "Parking",
+      "Breakfast",
+      "Pool"
+    ],
+    "rating": 4.5,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Partial refund within 48 hours."
+  },
+  {
+    "hotel_name": "Hotel 32",
+    "location": "Jaipur",
+    "amenities": [
+      "Heater",
+      "Parking",
+      "Gym"
+    ],
+    "rating": 4.1,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Free cancellation within 24 hours."
+  },
+  {
+    "hotel_name": "Hotel 33",
+    "location": "Goa",
+    "amenities": [
+      "Gym",
+      "Heater",
+      "Free WiFi"
+    ],
+    "rating": 3.6,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Free cancellation within 24 hours."
+  },
+  {
+    "hotel_name": "Hotel 34",
+    "location": "Kerala",
+    "amenities": [
+      "Spa",
+      "Gym",
+      "Free WiFi"
+    ],
+    "rating": 4.6,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Partial refund within 48 hours."
+  },
+  {
+    "hotel_name": "Hotel 35",
+    "location": "Pune",
+    "amenities": [
+      "Heater",
+      "Breakfast",
+      "Spa"
+    ],
+    "rating": 4.2,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Partial refund within 48 hours."
+  },
+  {
+    "hotel_name": "Hotel 36",
+    "location": "Pune",
+    "amenities": [
+      "Parking",
+      "Free WiFi",
+      "Spa"
+    ],
+    "rating": 4.2,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Free cancellation within 24 hours."
+  },
+  {
+    "hotel_name": "Hotel 37",
+    "location": "Jaipur",
+    "amenities": [
+      "Pool",
+      "Breakfast",
+      "Spa"
+    ],
+    "rating": 3.6,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "No cancellation allowed."
+  },
+  {
+    "hotel_name": "Hotel 38",
+    "location": "Bangalore",
+    "amenities": [
+      "Free WiFi",
+      "Parking",
+      "Spa"
+    ],
+    "rating": 4.0,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "No cancellation allowed."
+  },
+  {
+    "hotel_name": "Hotel 39",
+    "location": "Manali",
+    "amenities": [
+      "Free WiFi",
+      "Pool",
+      "Gym"
+    ],
+    "rating": 4.0,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Partial refund within 48 hours."
+  },
+  {
+    "hotel_name": "Hotel 40",
+    "location": "Pune",
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Gym"
+    ],
+    "rating": 4.1,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Free cancellation within 24 hours."
+  },
+  {
+    "hotel_name": "Hotel 41",
+    "location": "Chennai",
+    "amenities": [
+      "Breakfast",
+      "Beach Access",
+      "Heater"
+    ],
+    "rating": 3.5,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "No cancellation allowed."
+  },
+  {
+    "hotel_name": "Hotel 42",
+    "location": "Mumbai",
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Free WiFi"
+    ],
+    "rating": 3.7,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Free cancellation within 24 hours."
+  },
+  {
+    "hotel_name": "Hotel 43",
+    "location": "Delhi",
+    "amenities": [
+      "Free WiFi",
+      "Pool",
+      "Heater"
+    ],
+    "rating": 3.9,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Free cancellation within 24 hours."
+  },
+  {
+    "hotel_name": "Hotel 44",
+    "location": "Jaipur",
+    "amenities": [
+      "Breakfast",
+      "Beach Access",
+      "Gym"
+    ],
+    "rating": 4.5,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Free cancellation within 24 hours."
+  },
+  {
+    "hotel_name": "Hotel 45",
+    "location": "Hyderabad",
+    "amenities": [
+      "Breakfast",
+      "Beach Access",
+      "Gym"
+    ],
+    "rating": 4.2,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "No cancellation allowed."
+  },
+  {
+    "hotel_name": "Hotel 46",
+    "location": "Manali",
+    "amenities": [
+      "Beach Access",
+      "Parking",
+      "Heater"
+    ],
+    "rating": 3.7,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Free cancellation within 24 hours."
+  },
+  {
+    "hotel_name": "Hotel 47",
+    "location": "Bangalore",
+    "amenities": [
+      "Spa",
+      "Beach Access",
+      "Free WiFi"
+    ],
+    "rating": 4.3,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "No cancellation allowed."
+  },
+  {
+    "hotel_name": "Hotel 48",
+    "location": "Hyderabad",
+    "amenities": [
+      "Gym",
+      "Heater",
+      "Parking"
+    ],
+    "rating": 4.7,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Partial refund within 48 hours."
+  },
+  {
+    "hotel_name": "Hotel 49",
+    "location": "Jaipur",
+    "amenities": [
+      "Beach Access",
+      "Pool",
+      "Gym"
+    ],
+    "rating": 4.0,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Partial refund within 48 hours."
+  },
+  {
+    "hotel_name": "Hotel 50",
+    "location": "Delhi",
+    "amenities": [
+      "Free WiFi",
+      "Heater",
+      "Breakfast"
+    ],
+    "rating": 4.1,
+    "review": "Good stay with comfortable rooms and decent service.",
+    "policy": "Partial refund within 48 hours."
+  }
+]
